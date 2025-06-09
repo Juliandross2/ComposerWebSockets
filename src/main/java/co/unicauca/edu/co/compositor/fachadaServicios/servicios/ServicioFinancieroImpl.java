@@ -10,7 +10,7 @@ public class ServicioFinancieroImpl implements IServicioFinanciero {
         // Aquí se implementaría la lógica para verificar el estado de paz y salvo financiero
         System.out.println("Verificando estado de paz y salvo financiero para el estudiante: " + idEstudiante);
         // Simulación de verificación exitosa
-        return true;
+        return false;
     }
     
 }
