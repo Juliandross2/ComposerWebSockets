@@ -1,2 +1,0 @@
-# ComposerWebSockets
-Compositor de webSockets
